@@ -1,6 +1,6 @@
 :root {
   /* Light Mode Colors */
-  --background-light: #556B2F;
+  --background-light: #3D7382;
   --section-bg-light: #F5F5F5;
   --text-light: #000000;
   --link-light: #7B4F9D;
@@ -22,7 +22,7 @@
 
   /* Dark Mode Colors */
   --background-dark: #2D3339;
-  --section-bg-dark: #38471f;
+  --section-bg-dark: #3D7382;
   --text-dark: #FFFFFF;
   --link-dark: #6DABFF;
   --button-dark: #6DABFF;
